@@ -16,7 +16,7 @@
           font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
         }
 
-        :is(html[data-color-mode="dark"]) svg div.container h1 {
+        html[data-color-mode="dark"] svg div.container h1 {
         color: red;
         }
 
